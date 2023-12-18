@@ -1,0 +1,40 @@
+#body {
+    margin: 0px;
+    background-color: rgb(232, 232, 235);
+    font-family: Arial;
+}
+.header {
+    background-color: rgb(68, 66, 66);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+#div_mission {
+    text-align: center;
+    color: rgb(54, 52, 52);
+}
+#div_products {
+    text-align: center;
+    color: rgb(54, 52, 52);
+}
+#div_contact {
+    text-align: center;
+    color: rgb(54, 52, 52);
+}
+#div_conclution {
+    background-color: rgb(68, 66, 66);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.img {
+    width: 600px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 5%;
+}
+#a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
